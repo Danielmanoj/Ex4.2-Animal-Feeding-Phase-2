@@ -1,4 +1,4 @@
-# Ex4.2-Animal-Feeding-Phase-2
+# Ex3.2-Animal-Feeding-Phase-2
 
 # DEVELOPED BY: MANOJ G
 # REGISTER NUMBER: 212222240060
